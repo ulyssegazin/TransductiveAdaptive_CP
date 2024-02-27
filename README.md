@@ -8,6 +8,8 @@ The code is under MIT Licence but please refer to and cite the above paper if yo
 
 ## Disclaimer on the packages
 
+You need to download the four following packages (jdot.py, classif.py, procedure.py and algo.py) before running the code.
+
 Files jdot.py, classif.py, procedure.py and algo.py are not from this paper. 
 
 jdot.py and classif .py can be found in the github page https://github.com/rflamary/JDOT/tree/master and is the implementation of the methods proposed by N. Courty, R. Flamary, A. Habrard, A. Rakotomamonjy, in "Joint Distribution Optimal Transportation for Domain Adaptation" published in Neural Information Processing Systems (NIPS), 2017.
